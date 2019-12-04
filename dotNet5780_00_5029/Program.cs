@@ -10,6 +10,7 @@ namespace dotNet5780_00_5029
     {
         static void Main(string[] args)
         {
+            //vdd
             WelcomeMethod();
             Console.ReadKey();
         }
